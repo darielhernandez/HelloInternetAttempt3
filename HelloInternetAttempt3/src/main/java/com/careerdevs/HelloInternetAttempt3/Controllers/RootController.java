@@ -9,9 +9,9 @@ public class RootController {
 
     /*
     * Method: GET
-    * Path:/
+    * Path:/nasa/apod
     * Host: localhost:4000
-    * URL: http://localhost:4000/
+    * URL: http://localhost:4000/nasa/apod
     * */
 
     @GetMapping("/")
