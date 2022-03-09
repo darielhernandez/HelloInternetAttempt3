@@ -1,4 +1,4 @@
-package com.careerdevs.HelloInternetAttempt3;
+package com.careerdevs.HelloInternetAttempt3.Controllers;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,7 +11,7 @@ public class HelloInternetAttempt3Application {
 
 	@GetMapping ("/")
 	public String rootRoute(){
-		return "You requested the root route";
+		return "NIMBUS";
 	}
 
 	public static void main(String[] args) {

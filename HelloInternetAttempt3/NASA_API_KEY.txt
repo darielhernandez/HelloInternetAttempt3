@@ -1,0 +1,10 @@
+NASA API KEY FOR DARIELHERNANDEZ.STUDENT@CAREERDEVS.COM:
+
+TKfufd3xOD4wIhrxvWlBtZF687AGwtKTaQng1dmA
+You can start using this key to make web service requests. Simply pass your key in the URL when making a web request. Here's an example:
+
+https://api.nasa.gov/planetary/apod?api_key=TKfufd3xOD4wIhrxvWlBtZF687AGwtKTaQng1dmA
+For additional support, please contact us. When contacting us, please tell us what API you're accessing and provide the following account details so we can quickly find you:
+
+Account Email: darielhernandez.student@careedevs.com
+Account ID: 26d0aaf2-82e5-4b1e-af43-e65609eb5d19
